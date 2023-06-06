@@ -1,0 +1,64 @@
+.boton-atras{
+  display: flex;
+  position: absolute;
+  border: none;
+  width: 26px;
+  height: 26px;
+  left: 200px;
+  top: 173px;
+}
+
+.boton-medianas{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 80px;
+  height: 80px;
+
+  left: 340px;
+  top: 218px;
+
+  border: 1px solid #3A8F4D;
+  border-radius: 50px;
+}
+
+.boton-grandes{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 319px;
+  top: 318px;
+
+  border: 1px solid #3A8F4D;
+  border-radius: 100px;
+
+}
+
+.boton-familiares{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 160px;
+  height: 160px;
+  left: 300px;
+  top: 450px;
+
+  border: 1px solid #3A8F4D;
+  border-radius: 100px;
+}
+
+.boton-stadium{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  left: 283px;
+  top: 645px;
+
+  border: 1px solid #3A8F4D;
+  border-radius: 30px;
+
+}
